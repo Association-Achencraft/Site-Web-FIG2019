@@ -1,0 +1,43 @@
+body{
+    background-image: url("background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#container{
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    font-size: 18px;
+}
+
+#titre{
+    width: 100%;
+    text-align: center;
+}
+
+#logos{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+hr{
+    background-color: white;
+}
+
+#img_droite{
+    float: right;
+    height: 450px;
+}
+
+.btn-primary{
+    background-color: green;
+}
+
+.mobil{
+    height: 100vh;
+}
